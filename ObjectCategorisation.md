@@ -13,3 +13,5 @@
 
 ### Pyramid match kernel (lec6)
 * How is partial matching between sets of features robust to occlusion, cluttering and segmentation errors?
+### Local Coordinate Coding
+* Principally a mathematical concept. Discuss with Sir.
