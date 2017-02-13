@@ -13,9 +13,8 @@
 
 ### Pyramid match kernel (lec6)
 * How is partial matching between sets of features robust to occlusion, cluttering and segmentation errors?
-
 * Go into a little bit more detail about Optimal Match between sets and how pyramid match is a good approximation?
-  * Ans. [Paper on pyramid match kernel by Grauman and Darrell](https://www.vision.caltech.edu/Image_Datasets/Caltech101/grauman_darrell_iccv05.pdf)
+  *Look at the definition of Optimal Match in the  (paper, go to Page 6, Preliminaries Section)[http://groups.csail.mit.edu/vision/vip/papers/grauman_jmlr07.pdf]. (Asim)
 
 ### Local Coordinate Coding
 * Principally a mathematical concept. Discuss with Sir.
