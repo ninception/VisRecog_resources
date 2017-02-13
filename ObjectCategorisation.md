@@ -7,7 +7,7 @@
 * [Paper on pyramid match kernel by Grauman and Darrell](https://www.vision.caltech.edu/Image_Datasets/Caltech101/grauman_darrell_iccv05.pdf)
 
 ### Spatial Pyramid Matching (lec6)
-* [SPM paper by Lazebnik - CVPR '06](http://www-cvr.ai.uiuc.edu/ponce_grp/publication/paper/cvpr06b.pdf)
+* [SPM paper by Lazebnik - CVPR '06: See section 3.2](http://www-cvr.ai.uiuc.edu/ponce_grp/publication/paper/cvpr06b.pdf)
 
 
 ### VLAD(Vector Of Locally Aggregated Descriptors) (lec7)
