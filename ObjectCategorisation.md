@@ -8,7 +8,7 @@
 ### VLAD(Vector Of Locally Aggregated Descriptors) (lec7)
 [Blog Post On VLAD with Other relevant links](https://ameyajoshi005.wordpress.com/2014/03/29/vlad-an-extension-of-bag-of-words/)
 
-### Sparse Coding On SIFT (
+### Sparse Coding On SIFT
  * [Sparsity](http://ufldl.stanford.edu/wiki/index.php/Sparse_Coding)
 
 ## Doubt areas
