@@ -1,5 +1,3 @@
-#Instance Recognition
+## Instance Recognition
 ### Shape Adapted and Maximally Stable regions
-
-
-###Scale space construction (ninad)
+### Scale space construction (ninad)
