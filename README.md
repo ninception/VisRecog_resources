@@ -1,5 +1,8 @@
-# VisRecog_resources
-Resources for Visual Recognition COurse
+# VisRec resources and doubts
+A place to share resources and doubts for Visual Recognition Course.
+
+Make Files with name of topics and add Links/Description of Resources in that file.
+
+[Course link](http://www.cse.iitk.ac.in/users/vinaypn/teaching/visrec/)
 
 
-Make Text Files With name of Topics described as in http://www.cse.iitk.ac.in/users/vinaypn/teaching/visrec/ and add Links/Description of Resources in that text file.
