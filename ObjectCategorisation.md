@@ -2,6 +2,9 @@
 
 ## Resources
 
+### Feature Pooling in Visual Recognition 
+ * [Look at this Paper](http://people.ee.duke.edu/~lcarin/icml2010b.pdf)
+ 
 ### Pyramid Match Kernel (lec6)
 * [Slideshare PPT on Pyramid Match Kernel](http://www.slideshare.net/wolf/the-pyramid-match-kernel-discriminative-classification-with-sets-of-image-features)
 * [Paper on pyramid match kernel by Grauman and Darrell](https://www.vision.caltech.edu/Image_Datasets/Caltech101/grauman_darrell_iccv05.pdf)
