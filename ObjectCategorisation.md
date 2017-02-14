@@ -6,7 +6,7 @@
 ### Gamma Correction 
  * An Image Processing step, often taken before recognition tasks, to correct the nonlinear transformation of light intensity to pixel values. Look at [Wiki Article](https://en.wikipedia.org/wiki/Gamma_correction).
 
-### Feature Pooling in Visual Recognition 
+### Feature Pooling in Visual Recognition
  * [Look at this Paper](http://people.ee.duke.edu/~lcarin/icml2010b.pdf)
  
 ### Pyramid Match Kernel (lec6)
