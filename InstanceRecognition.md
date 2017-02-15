@@ -1,7 +1,7 @@
 # Instance Recognition
 
 ## Resources
-None as of now.
+[Scale space construction from iitm](http://www.cse.iitm.ac.in/~vplab/courses/CV_DIP/PDF/SCALE_SPACE-PYR.pdf)
 
 ## Doubt areas
 
