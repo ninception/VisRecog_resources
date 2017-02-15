@@ -23,6 +23,9 @@
 ### Sparse Coding On SIFT
  * [Sparsity](http://ufldl.stanford.edu/wiki/index.php/Sparse_Coding)
 
+------------------------
+------------------------
+
 ## Doubt areas
 
 ### Pyramid match kernel (lec6)
