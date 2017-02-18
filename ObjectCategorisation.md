@@ -2,19 +2,21 @@
 
 ## Resources
 
+### Recognizing and Learning Object Categories
+- [ICCV 2005 short course](http://people.csail.mit.edu/torralba/shortCourseRLOC/index.html)
 
 ### Gamma Correction 
- * An Image Processing step, often taken before recognition tasks, to correct the nonlinear transformation of light intensity to pixel values. Look at [Wiki Article](https://en.wikipedia.org/wiki/Gamma_correction).
+ - An Image Processing step, often taken before recognition tasks, to correct the nonlinear transformation of light intensity to pixel values. Look at [Wiki Article](https://en.wikipedia.org/wiki/Gamma_correction).
 
 ### Feature Pooling in Visual Recognition
- * [Look at this Paper](http://people.ee.duke.edu/~lcarin/icml2010b.pdf)
+ - [Look at this Paper](http://people.ee.duke.edu/~lcarin/icml2010b.pdf)
  
 ### Pyramid Match Kernel (lec6)
-* [Slideshare PPT on Pyramid Match Kernel](http://www.slideshare.net/wolf/the-pyramid-match-kernel-discriminative-classification-with-sets-of-image-features)
-* [Paper on pyramid match kernel by Grauman and Darrell](https://www.vision.caltech.edu/Image_Datasets/Caltech101/grauman_darrell_iccv05.pdf)
+- [Slideshare PPT on Pyramid Match Kernel](http://www.slideshare.net/wolf/the-pyramid-match-kernel-discriminative-classification-with-sets-of-image-features)
+- [Paper on pyramid match kernel by Grauman and Darrell](https://www.vision.caltech.edu/Image_Datasets/Caltech101/grauman_darrell_iccv05.pdf)
 
 ### Spatial Pyramid Matching (lec6)
-* [SPM paper by Lazebnik - CVPR '06: See section 3.2](http://www-cvr.ai.uiuc.edu/ponce_grp/publication/paper/cvpr06b.pdf)
+- [SPM paper by Lazebnik - CVPR '06: See section 3.2](http://www-cvr.ai.uiuc.edu/ponce_grp/publication/paper/cvpr06b.pdf)
 
 
 ### VLAD(Vector Of Locally Aggregated Descriptors) (lec7)
