@@ -8,7 +8,7 @@
 The method is quite similar to SIFT. However it is important to note differences. 
 * It is a robust dense coding of spatial form , instead of a Sparse representation of an image as in SIFT.
 * There is no dominant orientation alignment as in SIFT.
-* SIFT descriptors are menat to be used individually and associated with a Keypoint, while HoG descriptors are associated with a block.
+* SIFT descriptors are meant to be used individually and associated with a Keypoint, while HoG descriptors are associated with a block.
 
 Normalization is done over the block, to reduce the effects of gradient changes due to illumination etc and keep it robust.
 Finally Linear or Kernel SVM is used to classify results in positive(Human) or Negative Categories.
