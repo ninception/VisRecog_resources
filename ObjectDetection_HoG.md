@@ -18,6 +18,6 @@ Finally Linear or Kernel SVM is used to classify results in positive(Human) or N
 
 #### 1. (Asim) Section 6.3 in above Paper 
 #### ~"To reduce aliasing, votes are interpolated bilinearly between the neighbouring bin centres in both orientation and position"
-#### What is the meant by above?
+What is the meant by above?
 
 
