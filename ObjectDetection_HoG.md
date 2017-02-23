@@ -17,6 +17,11 @@ The method is quite similar to SIFT. However it is important to note differences
 
 Normalization is done over the block, to reduce the effects of gradient changes due to illumination etc and keep it robust. Finally Linear or Kernel SVM is used to classify results in positive(Human) or Negative Categories.
 
+### Hard negative mining (from reddit)
+- Let's say I give you a bunch of images that contain one or more people, and I give you bounding boxes for each one. Your classifier will need both positive training examples (person) and negative training examples (not person). For each person, you create a positive training example by looking inside that bounding box. But how do you create useful negative examples?
+- A good way to start is to generate a bunch of random bounding boxes, and for each that doesn't overlap with any of your positives, keep that new box as a negative. Ok, so you have positives and negatives, so you train a classifier, and to test it out, you run it on your training images again with a sliding window. But it turns out that your classifier isn't very good, because it throws a bunch of false positives (people detected where there aren't actually people).
+- A hard negative is when you take that falsely detected patch, and explicitly create a negative example out of that patch, and add that negative to your training set. When you retrain your classifier, it should perform better with this extra knowledge, and not make as many false positives.
+
 ---
 
 ### Doubts
