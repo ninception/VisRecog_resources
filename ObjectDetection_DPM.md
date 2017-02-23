@@ -12,4 +12,5 @@
 
 ## Doubts 
 
-* (Asim) In the training phase, what is Data Mining?
+- (Asim) In the training phase, what is Data Mining?
+  - (ninad) It is probably hard negative mining.
