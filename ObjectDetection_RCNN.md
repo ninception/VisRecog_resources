@@ -17,4 +17,4 @@ You may also look at the [research paper](https://ivi.fnwi.uva.nl/isis/publicati
 
 For a good succinct summary of the paper, please look at this [gitbooks](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html) page. For information on 
 ### bounding box regression for object localization, 
-you can also look at the last link.
+you can also look at the gitbooks link.
