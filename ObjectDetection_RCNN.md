@@ -21,3 +21,10 @@ For a good succinct summary of the paper, please look at this [gitbooks](https:/
 [Nice slides](http://cvlab.postech.ac.kr/~bhhan/class/cse703r_2016s/csed703r_lecture6.pdf)
  
  - What we are learning is the transformation to the proposal we feeding to the CNN. (the proposal comes from methods like Selective search etc..)
+
+---
+
+## SSD resources
+
+- [ECCV 2016 slides](http://www.cs.unc.edu/%7Ewliu/papers/ssd_eccv2016_slide.pdf)
+- [slideshare tutorial](https://www.slideshare.net/xavigiro/ssd-single-shot-multibox-detector)
