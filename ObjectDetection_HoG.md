@@ -12,10 +12,10 @@ The method is quite similar to SIFT. However it is important to note differences
 - It is a robust dense coding of spatial form , instead of a Sparse representation of an image as in SIFT.
 - There is no dominant orientation alignment as in SIFT.
 - SIFT descriptors are meant to be used individually and associated with a Keypoint, while HoG descriptors are associated with a block.
+- It uses a “global” feature to describe a person rather than a collection of “local” features. Put simply, this means that the entire person is represented by a single feature vector, as opposed to many feature vectors representing smaller parts of the person. 
+- Normalization is done over the block, to reduce the effects of gradient changes due to illumination etc and keep it robust. Finally Linear or Kernel SVM is used to classify results in positive(Human) or Negative Categories.
 
-- it uses a “global” feature to describe a person rather than a collection of “local” features. Put simply, this means that the entire person is represented by a single feature vector, as opposed to many feature vectors representing smaller parts of the person. 
-
-Normalization is done over the block, to reduce the effects of gradient changes due to illumination etc and keep it robust. Finally Linear or Kernel SVM is used to classify results in positive(Human) or Negative Categories.
+---
 
 ### Hard negative mining (from reddit)
 - Let's say I give you a bunch of images that contain one or more people, and I give you bounding boxes for each one. Your classifier will need both positive training examples (person) and negative training examples (not person). For each person, you create a positive training example by looking inside that bounding box. But how do you create useful negative examples?
