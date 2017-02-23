@@ -1,9 +1,9 @@
 
-# Object Detection (Human Detection) using HoG (Dalal and Triggs)
+## Object Detection (Human Detection) using HoG (Dalal and Triggs)
 
-## [Link To CVPR'05 Dalal Triggs Paper](http://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf)
+### [Link To CVPR'05 Dalal & Triggs Paper](http://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf)
 
-## [A tutorial from a blog](http://mccormickml.com/2013/05/09/hog-person-detector-tutorial/)
+### [A tutorial from a blog](http://mccormickml.com/2013/05/09/hog-person-detector-tutorial/)
 
 ### Short Summary (Add in a way to keep it concise and insightful)
 
@@ -24,4 +24,4 @@ Normalization is done over the block, to reduce the effects of gradient changes 
 - 1. (Asim) Section 6.3 in above Paper 
 - "To reduce aliasing, votes are interpolated bilinearly between the neighbouring bin centres in both orientation and position" What is the meant by above?
 
----
+
