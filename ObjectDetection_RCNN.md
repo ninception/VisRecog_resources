@@ -17,3 +17,7 @@ You may also look at the [research paper](https://ivi.fnwi.uva.nl/isis/publicati
 
 For a good succinct summary of the paper, please look at this [gitbooks](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html) page. For information on 
 **bounding box regression for object localization**, you can also look at the gitbooks link.
+
+[Nice slides](http://cvlab.postech.ac.kr/~bhhan/class/cse703r_2016s/csed703r_lecture6.pdf)
+ 
+ - What we are learning is the transformation to the proposal we feeding to the CNN. (the proposal comes from methods like Selective search etc..)
