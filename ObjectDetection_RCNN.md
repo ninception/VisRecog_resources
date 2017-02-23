@@ -16,5 +16,4 @@ Please Look at this [Stanford Slide for details](http://vision.stanford.edu/teac
 You may also look at the [research paper](https://ivi.fnwi.uva.nl/isis/publications/2013/UijlingsIJCV2013/UijlingsIJCV2013.pdf).
 
 For a good succinct summary of the paper, please look at this [gitbooks](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html) page. For information on 
-### bounding box regression for object localization, 
-you can also look at the gitbooks link.
+**bounding box regression for object localization**, you can also look at the gitbooks link.
