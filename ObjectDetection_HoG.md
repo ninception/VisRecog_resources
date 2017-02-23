@@ -3,6 +3,8 @@
 
 ## [Link To CVPR'05 Dalal Triggs Paper](http://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf)
 
+## [A tutorial from a blog](http://mccormickml.com/2013/05/09/hog-person-detector-tutorial/)
+
 ### Short Summary (Add in a way to keep it concise and insightful)
 
 The method is quite similar to SIFT. However it is important to note differences:
