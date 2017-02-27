@@ -12,6 +12,12 @@
 [CS UToronto Lec Slide](http://www.cs.toronto.edu/~bonner/courses/2014s/csc321/lectures/lec5.pdf)
 [IndianaUniv](http://www.indiana.edu/~gasser/Q530/Notes/representation.html)
 
+## Sparse and Dense Representation 
+[Quora Post on Benefits of Sparse Representation](https://www.quora.com/What-are-the-advantages-of-using-sparse-representation-in-machine-learning-especially-in-deep-learning-models)
+
+[Quora Post on Differences between two](https://www.quora.com/In-machine-learning-what-is-the-difference-between-sparse-vector-and-dense-vector)
+
+
 
 ## Doubts
 
