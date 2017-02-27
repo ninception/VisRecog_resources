@@ -17,7 +17,9 @@
 
 [Quora Post on Differences between two](https://www.quora.com/In-machine-learning-what-is-the-difference-between-sparse-vector-and-dense-vector)
 
+## Inception Layer
 
+[Quora Post, look at Udacity Video in the post](https://www.quora.com/How-does-the-Inception-module-work-in-GoogLeNet-deep-architecture)
 
 ## Doubts
 
