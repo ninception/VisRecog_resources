@@ -8,6 +8,11 @@
 
 - [Relatively short intro from CVonline](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0809/ORCHARD/)
 
+### Max flow min cut 
+- [Graph Cuts in Image Segmentation: utah coe](http://www.coe.utah.edu/~cs7640/readings/graph_cuts_intro.pdf)
+
+
+
 ----
 ## Doubts
 42
